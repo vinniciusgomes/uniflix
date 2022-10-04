@@ -1,8 +1,6 @@
 import { createGlobalStyle } from "styled-components";
 
-import { font, primaryColors } from "./theme";
-
-const GlobalStyleProxy: any = createGlobalStyle`
+const GlobalStyleProxy = createGlobalStyle`
 * {
   margin: 0;
   padding: 0;
@@ -25,7 +23,7 @@ body {
   text-rendering: optimizeLegibility;
   border-right: 0px !important;
   overflow-x: hidden;
-  background: ${primaryColors?.background};
+  background: #fff;
 
   font-size: 1.6rem;
 
@@ -36,17 +34,17 @@ body {
 }
 
 body, input, textarea, button {
-  font-family: ${font.family.Roboto};
-  font-weight: ${font.normal};
-  color: ${primaryColors?.text};
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  color: #1d1d1d;
 }
 
 h1, h2, h3, h4, h5, h6, strong {
-  font-weight: ${font.semiBold};
+  font-weight: 600;
 }
 
 span {
-  font-size: ${font.sizes.normal};
+  font-size: 1.6rem;
 }
 
 button {
