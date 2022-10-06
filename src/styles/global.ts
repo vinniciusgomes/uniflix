@@ -19,11 +19,12 @@ html, body {
 }
 
 body {
+
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   border-right: 0px !important;
   overflow-x: hidden;
-  background: #fff;
+  background: #0f0f0f;
 
   font-size: 1.6rem;
 

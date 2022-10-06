@@ -1,17 +1,25 @@
 
+import { Button } from "components/Button"
 import { ButtonContainer, Container, Content } from "./styles"
 
-const imgSrc = "https://i.imgur.com/zaYPAdf.png"
+type IBannerProps = {
+    url: string;
+    imageUrl: string;
+    description: string;
+    title: string;
+}
 
-const Banner = () => {
+const Banner = ({ url, imageUrl, title, description }: IBannerProps) => {
     return (
-        <Container imageUrl={imgSrc}>
+        <Container imageUrl={imageUrl}>
             <Content>
-                <h1>Titulo</h1>
-                <span>Descrição</span>
+                <h1>{title}</h1>
+                <span>{description}</span>
 
                 <ButtonContainer>
-                    <button>Assistir agora</button>
+                    <Button>
+                        Assistir agora
+                    </Button>
                 </ButtonContainer>
 
             </Content>
