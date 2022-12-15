@@ -1,0 +1,849 @@
+[
+  {
+    "name": "Séries",
+    "id": "series",
+    "path": "series",
+    "list": [
+      {
+        "id": 8318,
+        "title": "Jeff e os Ets",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_46layi3j/ks/",
+        "normalize": "jeff-e-os-ets"
+      },
+      {
+        "id": 8340,
+        "title": "Teachers",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_scm3k3uw/ks/",
+        "normalize": "teachers"
+      },
+      {
+        "id": 6685,
+        "title": "Tickety Toc",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_q03l4kh5/ks/",
+        "normalize": "tickety-toc"
+      },
+      {
+        "id": 6989,
+        "title": "Club 57",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_qmdo9y10/ks/",
+        "normalize": "club-57"
+      },
+      {
+        "id": 5978,
+        "title": "O Vampiro de Niterói",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_nlesrcv4/ks/",
+        "normalize": "o-vampiro-de-niteroi"
+      },
+      {
+        "id": 6291,
+        "title": "Operação Policial",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_vb0e0qsy/ks/",
+        "normalize": "operacao-policial"
+      },
+      {
+        "id": 6895,
+        "title": "Mundos Subterrâneos",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_iychg007/ks/",
+        "normalize": "mundos-subterraneos"
+      },
+      {
+        "id": 6168,
+        "title": "Anatomia do Crime",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_sb2qk6xo/ks/",
+        "normalize": "anatomia-do-crime"
+      },
+      {
+        "id": 6975,
+        "title": "Mirage",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_bgnt7org/ks/",
+        "normalize": "mirage"
+      },
+      {
+        "id": 8121,
+        "title": "Release the Hounds (UK)",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_izhptay5/ks/",
+        "normalize": "release-the-hounds-uk"
+      },
+      {
+        "id": 6340,
+        "title": "Anjos da Guarda",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_wbsbe1ew/ks/",
+        "normalize": "anjos-da-guarda"
+      },
+      {
+        "id": 6697,
+        "title": "Bubble Guppies",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_vd1o5b83/ks/",
+        "normalize": "bubble-guppies"
+      },
+      {
+        "id": 6812,
+        "title": "Gigantes Dos Alimentos",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_r3zrw4w7/ks/",
+        "normalize": "gigantes-dos-alimentos"
+      },
+      {
+        "id": 6337,
+        "title": "Treino em Casa",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_31hh7tbn/ks/",
+        "normalize": "treino-em-casa"
+      },
+      {
+        "id": 7509,
+        "title": "Baby Shark, O Grande Show",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_tr6h0blh/ks/",
+        "normalize": "baby-shark-o-grande-show"
+      },
+      {
+        "id": 7333,
+        "title": "Go, Diego, Go!",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_x2kqjiv6/ks/",
+        "normalize": "go-diego-go"
+      },
+      {
+        "id": 6412,
+        "title": "Resgate 193",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_dwlrjywu/ks/",
+        "normalize": "resgate-193"
+      },
+      {
+        "id": 8576,
+        "title": "Isso não está acontecendo",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_mye03rms/ks/",
+        "normalize": "isso-nao-esta-acontecendo"
+      },
+      {
+        "id": 7669,
+        "title": "Os Grandes Mitos Gregos",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_4jfnpdke/ks/",
+        "normalize": "os-grandes-mitos-gregos"
+      },
+      {
+        "id": 3251,
+        "title": "De Férias Com o Ex Brasil",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_gvdhns49/ks/",
+        "normalize": "de-ferias-com-o-ex-brasil"
+      }
+    ]
+  },
+  {
+    "name": "Filmes do seu pacote",
+    "id": "filmes-do-seu-pacote",
+    "path": "filmes",
+    "list": [
+      {
+        "id": 8310,
+        "title": "Setembro em Shiraz",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_jigijckd/ks/",
+        "normalize": "setembro-em-shiraz"
+      },
+      {
+        "id": 8702,
+        "title": "O Predestinado",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_noxd8ue8/ks/",
+        "normalize": "o-predestinado"
+      },
+      {
+        "id": 8432,
+        "title": "LNF 2022: Jaraguá x Magnus - 2ª Rodada",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_bf0qgu0t/ks/",
+        "normalize": "lnf-2022-jaragua-x-magnus-2ª-rodada"
+      },
+      {
+        "id": 7627,
+        "title": "Dragging The Classics: The Brady Bunch",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_n5s83i63/ks/",
+        "normalize": "dragging-the-classics-the-brady-bunch"
+      },
+      {
+        "id": 8248,
+        "title": "VH1 Storytellers - Taylor Swift",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_k0py4aj2/ks/",
+        "normalize": "vh1-storytellers-taylor-swift"
+      },
+      {
+        "id": 6866,
+        "title": "Chihuaha: O Filme",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_bnkmrqp7/ks/",
+        "normalize": "chihuaha-o-filme"
+      },
+      {
+        "id": 8712,
+        "title": "A Assistente Psicopata",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_4ka5i15i/ks/",
+        "normalize": "a-assistente-psicopata"
+      },
+      {
+        "id": 6950,
+        "title": "Lovelace",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_zi3o4qpv/ks/",
+        "normalize": "lovelace"
+      },
+      {
+        "id": 6865,
+        "title": "Chat: A Sala Negra",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_qxlb7rns/ks/",
+        "normalize": "chat-a-sala-negra"
+      },
+      {
+        "id": 7069,
+        "title": "O Lenço Amarelo",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_bwc9ot63/ks/",
+        "normalize": "o-lenco-amarelo"
+      },
+      {
+        "id": 8507,
+        "title": "Cadáver",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_n40ijmez/ks/",
+        "normalize": "cadaver"
+      },
+      {
+        "id": 7966,
+        "title": "Livro De Sombras: A Bruxa De Blair 2",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_f92ls15p/ks/",
+        "normalize": "livro-de-sombras-a-bruxa-de-blair-2"
+      },
+      {
+        "id": 8715,
+        "title": "Aqui Tem Historia",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_1u2fx0yi/ks/",
+        "normalize": "aqui-tem-historia"
+      },
+      {
+        "id": 8186,
+        "title": "Cut Bank: Assassinato por Encomenda",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_dwl7pxgm/ks/",
+        "normalize": "cut-bank-assassinato-por-encomenda"
+      },
+      {
+        "id": 7331,
+        "title": "O massacre da serra elétrica",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_hrru4qr7/ks/",
+        "normalize": "o-massacre-da-serra-eletrica"
+      },
+      {
+        "id": 4138,
+        "title": "BLURT!",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/0_n8llnerz/ks/",
+        "normalize": "blurt"
+      },
+      {
+        "id": 8268,
+        "title": "A Hora Mais Escura",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_nwn79e14/ks/",
+        "normalize": "a-hora-mais-escura"
+      },
+      {
+        "id": 7633,
+        "title": "Uma Pousada de Presente",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_ywm1cird/ks/",
+        "normalize": "uma-pousada-de-presente"
+      },
+      {
+        "id": 8052,
+        "title": "Entre Tiros e Beijos",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_15mvsqko/ks/",
+        "normalize": "entre-tiros-e-beijos"
+      },
+      {
+        "id": 8698,
+        "title": "Caça-Fantasmas",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_9ru9te5l/ks/",
+        "normalize": "caca-fantasmas"
+      }
+    ]
+  },
+  {
+    "name": "Filmes para alugar",
+    "id": "filmes-para-alugar",
+    "path": "alugue",
+    "list": [
+      {
+        "id": 5905,
+        "title": "Harry Potter e a Pedra Filosofal",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_82g12oy7/ks/",
+        "normalize": "harry-potter-e-a-pedra-filosofal"
+      },
+      {
+        "id": 8223,
+        "title": "DC Showcase: Constantine – A Casa dos Mistérios",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_vacjspiy/ks/",
+        "normalize": "dc-showcase-constantine-–-a-casa-dos-misterios"
+      },
+      {
+        "id": 5922,
+        "title": "Harry Potter e o Prisionero de Askaban",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_cklxs0st/ks/",
+        "normalize": "harry-potter-e-o-prisionero-de-askaban"
+      },
+      {
+        "id": 6141,
+        "title": "Harry Potter 7 e as Reliquias da Morte - Parte 1",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_wbgdc3u4/ks/",
+        "normalize": "harry-potter-7-e-as-reliquias-da-morte-parte-1"
+      },
+      {
+        "id": 8244,
+        "title": "Animais Fantásticos: Os Segredos de Dumbledore",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_s9ojn951/ks/",
+        "normalize": "animais-fantasticos-os-segredos-de-dumbledore"
+      },
+      {
+        "id": 8661,
+        "title": "DC Liga dos Super Pets",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_wwzyys30/ks/",
+        "normalize": "dc-liga-dos-super-pets"
+      },
+      {
+        "id": 6139,
+        "title": "Harry Potter 5 e a Ordem da Fênix",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_ljei24wh/ks/",
+        "normalize": "harry-potter-5-e-a-ordem-da-fenix"
+      },
+      {
+        "id": 6140,
+        "title": "Harry Potter 4 e o Cálice de Fogo",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_23vef589/ks/",
+        "normalize": "harry-potter-4-e-o-calice-de-fogo"
+      },
+      {
+        "id": 8256,
+        "title": "Hermanoteu na Terra de Godah - O Filme",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_be36og15/ks/",
+        "normalize": "hermanoteu-na-terra-de-godah-o-filme"
+      },
+      {
+        "id": 8321,
+        "title": "Os Jovens Titãs em Ação! E DC Super Hero Girls: Caos no Multiverso",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_c1obxqs4/ks/",
+        "normalize": "os-jovens-titas-em-acao-e-dc-super-hero-girls-caos-no-multiverso"
+      },
+      {
+        "id": 8561,
+        "title": "Lanterna Verde: Cuidado com meu poder",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_ljtstno9/ks/",
+        "normalize": "lanterna-verde-cuidado-com-meu-poder"
+      },
+      {
+        "id": 8564,
+        "title": "Elvis",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_be3r9ix5/ks/",
+        "normalize": "elvis"
+      },
+      {
+        "id": 6218,
+        "title": "O Hobbit II: A Desolação de Smaug",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_od0d22mv/ks/",
+        "normalize": "o-hobbit-ii-a-desolacao-de-smaug"
+      },
+      {
+        "id": 8093,
+        "title": "Batman",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_h0bh61l9/ks/",
+        "normalize": "batman"
+      },
+      {
+        "id": 6143,
+        "title": "Harry Potter 6 e o Enigma do Príncipe",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_4g450d79/ks/",
+        "normalize": "harry-potter-6-e-o-enigma-do-principe"
+      },
+      {
+        "id": 7762,
+        "title": "Clint Eastwood: O Legado Cinematográfico",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_z2l0d2y5/ks/",
+        "normalize": "clint-eastwood-o-legado-cinematografico"
+      },
+      {
+        "id": 8320,
+        "title": "Queima De Arquivo: Regenerado",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_3fgbhb22/ks/",
+        "normalize": "queima-de-arquivo-regenerado"
+      },
+      {
+        "id": 5906,
+        "title": "Harry Potter e a Câmara Secreta",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_csacut0k/ks/",
+        "normalize": "harry-potter-e-a-camara-secreta"
+      },
+      {
+        "id": 6142,
+        "title": "Harry Potter 7 e as Reliquias da Morte - Parte 2",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_dte3d6f3/ks/",
+        "normalize": "harry-potter-7-e-as-reliquias-da-morte-parte-2"
+      },
+      {
+        "id": 6212,
+        "title": "O Hobbit III: A Batalha dos Cinco Exércitos",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_mlz9ujih/ks/",
+        "normalize": "o-hobbit-iii-a-batalha-dos-cinco-exercitos"
+      }
+    ]
+  },
+  {
+    "name": "Em alta",
+    "id": "em-alta",
+    "path": null,
+    "list": [
+      {
+        "id": 7108,
+        "title": "O Conto da Aia",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_bjw3juix/ks/",
+        "normalize": "o-conto-da-aia"
+      },
+      {
+        "id": 7101,
+        "title": "Shark Tank Brasil",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_xcyeh42a/ks/",
+        "normalize": "shark-tank-brasil"
+      },
+      {
+        "id": 8646,
+        "title": "És o primeiro",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_sbd70mcg/ks/",
+        "normalize": "es-o-primeiro"
+      },
+      {
+        "id": 6720,
+        "title": "CSI: New York",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_tmxsy6pl/ks/",
+        "normalize": "csi-new-york"
+      },
+      {
+        "id": 8006,
+        "title": "Halo",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_tjagg2ir/ks/",
+        "normalize": "halo"
+      },
+      {
+        "id": 6879,
+        "title": "iCarly Only",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_8tthtnp4/ks/",
+        "normalize": "icarly-only"
+      },
+      {
+        "id": 7696,
+        "title": "De Férias com o Ex Caribe",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_2lry8ry8/ks/",
+        "normalize": "de-ferias-com-o-ex-caribe"
+      },
+      {
+        "id": 8319,
+        "title": "13 Minutos de Tormenta",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_t4rgur0n/ks/",
+        "normalize": "13-minutos-de-tormenta"
+      },
+      {
+        "id": 6996,
+        "title": "Riverdale",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_bw80g8e1/ks/",
+        "normalize": "riverdale"
+      },
+      {
+        "id": 8571,
+        "title": "Patrulha Canina",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_iynrozbs/ks/",
+        "normalize": "patrulha-canina"
+      },
+      {
+        "id": 4466,
+        "title": "Confess",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_zl7oubrw/ks/",
+        "normalize": "confess"
+      },
+      {
+        "id": 6792,
+        "title": "The Good Doctor",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_lh8to16t/ks/",
+        "normalize": "the-good-doctor"
+      },
+      {
+        "id": 8325,
+        "title": "Um Amor para Recordar",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_rjqtljnu/ks/",
+        "normalize": "um-amor-para-recordar"
+      },
+      {
+        "id": 8449,
+        "title": "Cegonhas",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_2az0uixd/ks/",
+        "normalize": "cegonhas"
+      },
+      {
+        "id": 8587,
+        "title": "Casas Abandonadas Renovadas",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_y41lpdik/ks/",
+        "normalize": "casas-abandonadas-renovadas"
+      },
+      {
+        "id": 6433,
+        "title": "The Good Wife",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_rl9erbnf/ks/",
+        "normalize": "the-good-wife"
+      },
+      {
+        "id": 7502,
+        "title": "Cocoricó",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_ib5dz3kh/ks/",
+        "normalize": "cocorico"
+      },
+      {
+        "id": 7964,
+        "title": "O Show do Patrick Estrela",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_g9bpbpqw/ks/",
+        "normalize": "o-show-do-patrick-estrela"
+      },
+      {
+        "id": 8154,
+        "title": "The Man Who Fell to Earth",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_oiik93sq/ks/",
+        "normalize": "the-man-who-fell-to-earth"
+      },
+      {
+        "id": 6812,
+        "title": "Gigantes Dos Alimentos",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_r3zrw4w7/ks/",
+        "normalize": "gigantes-dos-alimentos"
+      }
+    ]
+  },
+  {
+    "name": "Família e Infantil",
+    "id": "familia-e-infantil",
+    "path": "familia-e-infantil",
+    "list": [
+      {
+        "id": 8786,
+        "title": "Middlemost Aventura Postal",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_w271rrlg/ks/",
+        "normalize": "middlemost-aventura-postal"
+      },
+      {
+        "id": 8701,
+        "title": "Hotel Transilvânia 2",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_tpxgn3vg/ks/",
+        "normalize": "hotel-transilvania-2"
+      },
+      {
+        "id": 8571,
+        "title": "Patrulha Canina",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_iynrozbs/ks/",
+        "normalize": "patrulha-canina"
+      },
+      {
+        "id": 8449,
+        "title": "Cegonhas",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_2az0uixd/ks/",
+        "normalize": "cegonhas"
+      },
+      {
+        "id": 8400,
+        "title": "O Último Mago",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_k5ncza4k/ks/",
+        "normalize": "o-ultimo-mago"
+      },
+      {
+        "id": 8397,
+        "title": "Tá Chovendo Hambúrguer",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_hm3an65r/ks/",
+        "normalize": "ta-chovendo-hamburguer"
+      },
+      {
+        "id": 8376,
+        "title": "Tainá e os Guardiões da Amazônia",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_lreflz0y/ks/",
+        "normalize": "taina-e-os-guardioes-da-amazonia"
+      },
+      {
+        "id": 8301,
+        "title": "Uma Aventura Lego 2",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_5662j3od/ks/",
+        "normalize": "uma-aventura-lego-2"
+      },
+      {
+        "id": 8199,
+        "title": "A Cor Do Amor",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_9rv1ce50/ks/",
+        "normalize": "a-cor-do-amor"
+      },
+      {
+        "id": 7964,
+        "title": "O Show do Patrick Estrela",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_g9bpbpqw/ks/",
+        "normalize": "o-show-do-patrick-estrela"
+      },
+      {
+        "id": 7884,
+        "title": "Big Nate",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_dzlap9eg/ks/",
+        "normalize": "big-nate"
+      },
+      {
+        "id": 7771,
+        "title": "Ziggy e o trenzinho do Zoológico",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_laqpgl7u/ks/",
+        "normalize": "ziggy-e-o-trenzinho-do-zoologico"
+      },
+      {
+        "id": 7770,
+        "title": "Top Wing ",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_xdjc69vl/ks/",
+        "normalize": "top-wing"
+      },
+      {
+        "id": 7769,
+        "title": "Tinpo",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_9uxbk51c/ks/",
+        "normalize": "tinpo"
+      },
+      {
+        "id": 7755,
+        "title": "O dia que Henry encontrou",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_60ypiq2f/ks/",
+        "normalize": "o-dia-que-henry-encontrou"
+      },
+      {
+        "id": 7757,
+        "title": "Zoofari",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_nqujdwe3/ks/",
+        "normalize": "zoofari"
+      },
+      {
+        "id": 7756,
+        "title": "Tot Cop",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_delusjbc/ks/",
+        "normalize": "tot-cop"
+      },
+      {
+        "id": 7742,
+        "title": "Os padrinhos mágicos no paraíso",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_4re356ka/ks/",
+        "normalize": "os-padrinhos-magicos-no-paraiso"
+      },
+      {
+        "id": 7690,
+        "title": "Drama Club",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_dnz34cqo/ks/",
+        "normalize": "drama-club"
+      },
+      {
+        "id": 7563,
+        "title": "Shimmer e Shine",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_6a40r86x/ks/",
+        "normalize": "shimmer-e-shine"
+      }
+    ]
+  },
+  {
+    "name": "Reality Show",
+    "id": "reality-show",
+    "path": "reality-show",
+    "list": [
+      {
+        "id": 8736,
+        "title": "Self Made Brasil",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_sh0vawfx/ks/",
+        "normalize": "self-made-brasil"
+      },
+      {
+        "id": 8605,
+        "title": "Hip Hop My House",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_muibo2rg/ks/",
+        "normalize": "hip-hop-my-house"
+      },
+      {
+        "id": 8597,
+        "title": "Adotada #TBT ",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_na37696b/ks/",
+        "normalize": "adotada-tbt"
+      },
+      {
+        "id": 8596,
+        "title": "De Férias com o Ex UK",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_4q6t1njl/ks/",
+        "normalize": "de-ferias-com-o-ex-uk"
+      },
+      {
+        "id": 8587,
+        "title": "Casas Abandonadas Renovadas",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_y41lpdik/ks/",
+        "normalize": "casas-abandonadas-renovadas"
+      },
+      {
+        "id": 8556,
+        "title": "Are You The One? UK",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_3au1jv1w/ks/",
+        "normalize": "are-you-the-one-uk"
+      },
+      {
+        "id": 8505,
+        "title": "Sabores Dos Anos 80: Porções De História",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_loux80k6/ks/",
+        "normalize": "sabores-dos-anos-80-porcoes-de-historia"
+      },
+      {
+        "id": 8467,
+        "title": "De Férias com o Ex: América Latina",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_ak4fev96/ks/",
+        "normalize": "de-ferias-com-o-ex-america-latina"
+      },
+      {
+        "id": 8386,
+        "title": "Porta-aviões",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_ubx2ioao/ks/",
+        "normalize": "porta-avioes"
+      },
+      {
+        "id": 8384,
+        "title": "All Star Shore",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_afemjag5/ks/",
+        "normalize": "all-star-shore"
+      },
+      {
+        "id": 8360,
+        "title": "RuPaul's Drag Race All Stars",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_2zubg49u/ks/",
+        "normalize": "rupauls-drag-race-all-stars"
+      },
+      {
+        "id": 8181,
+        "title": "Resistir",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_j0kp4gvp/ks/",
+        "normalize": "resistir"
+      },
+      {
+        "id": 8121,
+        "title": "Release the Hounds (UK)",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_izhptay5/ks/",
+        "normalize": "release-the-hounds-uk"
+      },
+      {
+        "id": 7929,
+        "title": "Mãos pra cima, Chef!",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_efxcho4m/ks/",
+        "normalize": "maos-pra-cima-chef"
+      },
+      {
+        "id": 7927,
+        "title": "Na Riqueza E Na Pobreza",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_87k6yxu1/ks/",
+        "normalize": "na-riqueza-e-na-pobreza"
+      },
+      {
+        "id": 7921,
+        "title": "O Substituto",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_choavgno/ks/",
+        "normalize": "o-substituto"
+      },
+      {
+        "id": 7905,
+        "title": "RuPaul's Drag Race",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_e6lyl6p3/ks/",
+        "normalize": "rupauls-drag-race"
+      },
+      {
+        "id": 7833,
+        "title": "The Real World – De volta ao lar",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_824qnw6p/ks/",
+        "normalize": "the-real-world-–-de-volta-ao-lar"
+      },
+      {
+        "id": 7814,
+        "title": "The Challenge: All Stars",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_qoccdfqv/ks/",
+        "normalize": "the-challenge-all-stars"
+      },
+      {
+        "id": 7768,
+        "title": "Sozinhos: No Ártico",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_9ai9ixfn/ks/",
+        "normalize": "sozinhos-no-artico"
+      }
+    ]
+  },
+  {
+    "name": "Adicionados recentemente",
+    "id": "adicionados-recentemente",
+    "path": null,
+    "list": [
+      {
+        "id": 8788,
+        "title": "A Curiosa Vida e Morte",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_p0pxvyup/ks/",
+        "normalize": "a-curiosa-vida-e-morte"
+      },
+      {
+        "id": 8786,
+        "title": "Middlemost Aventura Postal",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_w271rrlg/ks/",
+        "normalize": "middlemost-aventura-postal"
+      },
+      {
+        "id": 8785,
+        "title": "Karatê Kid 2 - A Hora da Verdade Continua",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_41m89sty/ks/",
+        "normalize": "karate-kid-2-a-hora-da-verdade-continua"
+      },
+      {
+        "id": 8784,
+        "title": "O Quarto do Pânico",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_03u3sazw/ks/",
+        "normalize": "o-quarto-do-panico"
+      },
+      {
+        "id": 8783,
+        "title": "Hitch - Conselheiro Amoroso",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_3vl4p4q1/ks/",
+        "normalize": "hitch-conselheiro-amoroso"
+      },
+      {
+        "id": 8782,
+        "title": "Jovem Outra Vez de Stephen King",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_p5oqdsoj/ks/",
+        "normalize": "jovem-outra-vez-de-stephen-king"
+      },
+      {
+        "id": 8780,
+        "title": "O Vôo Da Fúria",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_aes5llj0/ks/",
+        "normalize": "o-voo-da-furia"
+      },
+      {
+        "id": 8779,
+        "title": "A Fortaleza 2",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_vna2ahdy/ks/",
+        "normalize": "a-fortaleza-2"
+      },
+      {
+        "id": 8778,
+        "title": "Força De Proteção",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_3ry9xjil/ks/",
+        "normalize": "forca-de-protecao"
+      },
+      {
+        "id": 8777,
+        "title": "A Praga",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_pgwgalhg/ks/",
+        "normalize": "a-praga"
+      },
+      {
+        "id": 8774,
+        "title": "O Domo",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_y2nybry9/ks/",
+        "normalize": "o-domo"
+      },
+      {
+        "id": 8768,
+        "title": "A Guerra do Pacífico em Cores",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_mmdgd3l9/ks/",
+        "normalize": "a-guerra-do-pacifico-em-cores"
+      },
+      {
+        "id": 8764,
+        "title": "Princesas Americanas Milionárias",
+        "cover": "https://cdnsecakmi.kaltura.com/api_v3/index.php/service/thumbAsset/action/serve/thumbAssetId/1_p4jkfwxf/ks/",
+        "normalize": "princesas-americanas-milionarias"
+      }
+    ]
+  }
+]
